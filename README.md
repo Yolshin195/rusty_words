@@ -1,4 +1,3 @@
-``` markdown
 # Rusty Words
 
 A simple command-line dictionary application that allows you to store and retrieve word translations. The dictionary uses a local database to persist the translations.
